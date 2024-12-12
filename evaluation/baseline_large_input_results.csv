@@ -1,0 +1,4 @@
+Run Number,Execution Time (ms),Peak Memory (MB),Avg CPU (%),Max CPU (%),Throughput (words/sec),Latency (ms/word),Input Size,Pipeline Stages,Total Records Processed
+1,2612,13129.27,78.85,100.00,3810.11,0.26246,9952,6,29856
+2,3033,13173.16,91.04,100.00,3281.24,0.30476,9952,6,29856
+3,2664,13173.16,74.63,100.00,3735.74,0.26768,9952,6,29856
